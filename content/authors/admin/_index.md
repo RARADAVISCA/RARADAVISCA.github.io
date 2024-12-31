@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/rra.dw/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/RARADAVISCA
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Rekayasa Perangkat Lunak
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Multimedia
+    institution: SMK N 1 WIROSARI
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
