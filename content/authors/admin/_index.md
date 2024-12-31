@@ -139,7 +139,7 @@ skills:
       - name: Photography
         description: ""
         percent: 80
-        icon: camera
+        icon: Hp
 
 languages:
   - name: English
