@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: ""
+    institution: Smp N 2 Kradenan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -139,7 +139,7 @@ skills:
       - name: Photography
         description: ""
         percent: 80
-        icon: H
+        icon: Hp
 
 languages:
   - name: English
