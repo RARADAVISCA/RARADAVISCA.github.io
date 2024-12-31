@@ -62,7 +62,7 @@ education:
       text: "Read Thesis"
       url: "https://example.com"
   - area: Multimedia
-    institution: SMK N 1 WIROSARI
+    institution: Smk N 1 Wirosari
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
