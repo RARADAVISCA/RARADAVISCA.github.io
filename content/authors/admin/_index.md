@@ -61,7 +61,6 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -155,7 +154,6 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: "2023-07-01"
@@ -179,5 +177,4 @@ awards:
 ## About Me
 
 Saya Rara Dwi Davisca Seorang Mahasiswa di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang, Prodi Rekayasa Perangkat Lunak, Semester 3, Saya Berasal Dari Kabupaten Grobogan. Saya Memiliki Ketertarikan di Bidang Teknologi dan Desain Grafis.
-Selama di Kampus, Saya Aktif Mengikuti Kepanitiaan di Organisasi Mahasiswa, Karena Saya Percaya Pengalaman di Luar Kelas Sangat Penting Untuk Mengembangkan Keterampilan dan Memperluas Jaringan. Di waktu luang, saya suka Memasak,
-membantu saya tetap seimbang antara kesibukan akademik dan pribadi.
+Selama di Kampus, Saya Aktif Mengikuti Kepanitiaan di Organisasi Mahasiswa, Karena Saya Percaya Pengalaman di Luar Kelas Sangat Penting Untuk Mengembangkan Keterampilan dan Memperluas Jaringan. Di waktu luang, saya suka Memasak, membantu saya tetap seimbang antara kesibukan akademik dan pribadi.
