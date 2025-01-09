@@ -33,23 +33,18 @@ profiles:
   - icon: at-symbol
     url: "raradavisca30@gmail.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/rra.dw/
   - icon: brands/github
     url: https://github.com/RARADAVISCA
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: Rekayasa Perangkat Lunak
@@ -74,7 +69,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: ""
     institution: Smp N 2 Kradenan
-    date_start: 2016-01-01
+    date_start: 2018-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
@@ -184,4 +179,5 @@ awards:
 ## About Me
 
 Saya Rara Dwi Davisca Seorang Mahasiswa di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang, Prodi Rekayasa Perangkat Lunak, Semester 3, Saya Berasal Dari Kabupaten Grobogan. Saya Memiliki Ketertarikan di Bidang Teknologi dan Desain Grafis.
-Selama di Kampus, Saya Aktif Mengikuti Kepanitiaan di Organisasi Mahasiswa, karena saya percaya pengalaman di luar kelas sangat penting untuk mengembangkan keterampilan dan memperluas jaringan.
+Selama di Kampus, Saya Aktif Mengikuti Kepanitiaan di Organisasi Mahasiswa, Karena Saya Percaya Pengalaman di Luar Kelas Sangat Penting Untuk Mengembangkan Keterampilan dan Memperluas Jaringan. Di waktu luang, saya suka Memasak,
+membantu saya tetap seimbang antara kesibukan akademik dan pribadi.
