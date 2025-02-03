@@ -22,11 +22,6 @@ highlight_name: true
 # Role/position/tagline
 role: mahasiswa
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Dicoding
-    url: https://www.dicoding.com/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -39,44 +34,56 @@ profiles:
     url: https://github.com/RARADAVISCA
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Data Analysis & Visualization
+  - Cooking
 
 education:
-  - area: Rekayasa Perangkat Lunak
-    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
+  - area: Software Engineering
+    institution: Muhammadiyah Semarang Institute of Technology, Statistics and Business
+    date_start: 2023-10
+    date_end: Present
+    summary: |sampai saat ini saya masih menjadi mahasiswa di itesa
+
+      Courses included:
+      - Algoritma dan struktur data, menggunakan bahasa pemograman C++ & C
+      - Desain UI/UX, menggunakan tool figma
+      - Perancangan Basis Data, menggunakan MySQL woorkbench
+
   - area: Multimedia
-    institution: Smk N 1 Wirosari
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Vocational High School 1 Wirosari
+    date_start: 2020-06
+    date_end: 2023-05
     summary: |
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Desain Grafis : Penggunaan software seperti Adobe Photoshop, Illustrator dan CorelDRAW,
+        Prinsip desain (warna, tipografi, komposisi),
+        Pembuatan logo, poster, dan branding.
+      - Animasi dan Motion Graphics : Animasi dalam multimedia mencakup 2D (Adobe Animate, After Effects)
+        untuk karakter dan motion graphics, serta 3D (Blender, Cinema 4D, Maya) untuk objek dan lingkungan realistis. 
+        Efek visual (VFX) memperkaya video dengan animasi teks dan transisi sinematik, menjadikannya elemen penting dalam industri kreatif. 
+      - Fotografi dan Videografi : Teknik pengambilan gambar dan video mengandalkan penggunaan kamera dan pencahayaan yang tepat,
+        sementara editing dan color grading menyempurnakan visual agar lebih estetis dan profesional. 
+      - 
   - area: ""
-    institution: Smp N 2 Kradenan
-    date_start: 2018-01-01
-    date_end: 2020-12-31
+    institution: State Junior High School 2 Kradenan
+    date_start: 2017-06
+    date_end: 2020-05
     summary: |
-      GPA: 3.4/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Ilmu Pngetahuan Alam
+      - Ilmu Pengetehauan Sosial
+      - Bahasa Inggris
+      - Bahasa Indonesia
+      - Bahasa Jawa
+      - Matematika
+      - Prakarya
+      - Pendidikan Jasmani, Olahraga dan Kesehatan
+      - Pendidikan Pancasila dan Kewarganegaraan
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -110,7 +117,7 @@ skills:
         description: ""
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ""
         percent: 100
         icon: chart-bar
@@ -137,11 +144,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
     percent: 25
+  - name: Indonesia
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -171,10 +176,10 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping youss manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Saya Rara Dwi Davisca Seorang Mahasiswa di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang, Prodi Rekayasa Perangkat Lunak, Semester 3, Saya Berasal Dari Kabupaten Grobogan. Saya Memiliki Ketertarikan di Bidang Teknologi dan Desain Grafis.
-Selama di Kampus, Saya Aktif Mengikuti Kepanitiaan di Organisasi Mahasiswa, Karena Saya Percaya Pengalaman di Luar Kelas Sangat Penting Untuk Mengembangkan Keterampilan dan Memperluas Jaringan. Di waktu luang, saya suka Memasak, membantu saya tetap seimbang antara kesibukan akademik dan pribadi.
+I am Rara Dwi Davisca, a student at the Muhammadiyah Semarang Institute of Statistics and Business Technology, Software Engineering Study Program, Semester 3, I come from Grobogan Regency. I have an interest in technology and graphic design.
+While on campus, I actively participated in committees in student organizations, because I believe that experience outside the classroom is very important for developing skills and expanding networks. In my spare time, I like to cook, it helps me keep a balance between academic and personal activities.
