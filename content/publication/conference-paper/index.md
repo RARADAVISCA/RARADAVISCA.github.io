@@ -1,12 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'MODUL SISTEM BILANGAN DAN GERBANG LOGIKA'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +16,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-12-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,14 +24,35 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication:""
+publication_short:""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Dalam dunia digital yang terus berkembang, Sistem Informasi dan Logika Informatika
+memainkan peran yang sangat penting dalam pengelolaan dan pemrosesan informasi. Kedua
+konsep ini tidak hanya fundamental dalam bidang teknologi informasi, tetapi juga menjadi
+dasar bagi berbagai aplikasi, sistem, dan proses yang kita gunakan sehari-hari.
+o Sistem Informasi
+
+Sistem Informasi adalah sebuah struktur yang terdiri dari komponen-komponen
+yang saling berinteraksi untuk mengumpulkan, mengolah, menyimpan, dan
+menyebarkan informasi yang dibutuhkan untuk mendukung pengambilan keputusan,
+koordinasi, dan kontrol dalam organisasi. Sistem ini mencakup perangkat keras,
+perangkat lunak, data, prosedur, serta pengguna yang berinteraksi dengan sistem untuk
+mencapai tujuan tertentu. Dalam dunia bisnis, pendidikan, pemerintahan, dan banyak
+sektor lainnya, sistem informasi berperan penting dalam meningkatkan efisiensi dan
+efektivitas operasional.
+o Logika Informatika
+
+Logika Informatika merujuk pada penerapan prinsip-prinsip logika dan
+matematika dalam pengolahan informasi dan pembuatan keputusan berbasis komputer.
+Ini mencakup dasar-dasar logika proposisional, operasi logika seperti AND, OR, NOT,
+serta penerapan prinsip logika dalam pemrograman komputer dan desain algoritma.
+Logika informatika membantu dalam membangun struktur pemrograman yang efisien,
+menyelesaikan masalah secara sistematis, dan memastikan kelancaran pengolahan data
+dalam sistem informasi.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Modul ini dibuat untuk Memenuhi Tugas Organisasi dan Arsitektur Komputer
 tags:
   - Large Language Models
 
@@ -44,14 +64,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://drive.google.com/drive/folders/10iBIav4a69Stejl_fPJjBe9mMqZFWof6?hl=id'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
